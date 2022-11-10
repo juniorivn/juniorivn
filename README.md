@@ -2,7 +2,8 @@
   <a href="https://github.com/juniorivn">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorivn&show_icons=true&include_all_commits=true&count_private=true&theme=prussian"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorivn&layout=compact&langs_count=7&theme=prussian"/>
-     <p align="center">
+    <br/><br/>
+   <p align="center">
     <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorivn&theme=prussian" alt="juniorivn" />
     <br/><br/>
   </p>
